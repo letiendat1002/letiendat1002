@@ -14,5 +14,5 @@
 
 
 <a href="https://en.wikipedia.org/wiki/Vietnam" target="_blank">
-  <img width="80%" align="center"  src="./resouces/Flag_of_Vietnam-Animated.gif"/>
+  <img width="100%" align="center"  src="./resouces/Flag_of_Vietnam-Animated.gif"/>
 </a>
