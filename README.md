@@ -12,4 +12,7 @@
 [![Mail Badge](https://img.shields.io/badge/Mail-DatTienLe-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:letiendat1002@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-DatTienLe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/letiendat1002)
 
-<a href="https://en.wikipedia.org/wiki/Vietnam" target="_blank"><img src="./resouces/Flag_of_Vietnam-Animated.gif" width="100%" align="center/></a>
+
+<a href="https://en.wikipedia.org/wiki/Vietnam" target="_blank">
+  <img width="100%" align="center"  src="./resouces/Flag_of_Vietnam-Animated.gif"/>
+</a>
