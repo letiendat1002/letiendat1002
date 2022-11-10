@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://www.fb.com/letiendat1002" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-DatTienLe-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-letiendat1002-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/letiendat1002" target="blank">
-    <img src="https://img.shields.io/badge/Linkedin-DatTienLe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-letiendat1002-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="https://twitter.com/letiendat1002" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-DatTienLe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-letiendat1002-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis" alt="Twitter Badge"/>
   </a>
   <a href="mailto:letiendat1002@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Mail-DatTienLe-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/Mail-letiendat1002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </p>
 
