@@ -1,9 +1,9 @@
 <h1 align="center">Welcome To Dat Tien Le Github</h1>
 <h2 align="center" id="h2_center"><i>A Passionate Programmer From Vietnam</i></h2>
 
-#### <img src="./resouces/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! I’m Dat. You can call me Dylan. I am an IT student at the University of Transport Ho Chi Minh City.
+#### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! I’m Dat. You can call me Dylan. I am an IT student at the University of Transport Ho Chi Minh City.
 
-#### <img src="./resouces/lighting.gif" alt="Lightning Icon" width="30"/> My passion is all about finance and technology. I'm looking forward to becoming a professional Software Engineer someday. 
+#### <img src="./images/lighting.gif" alt="Lightning Icon" width="30"/> My passion is all about finance and technology. I'm looking forward to becoming a professional Software Engineer someday. 
 
 <h3 align="left">Connect with me:</h3>
 
@@ -15,5 +15,5 @@
 
 
 <a href="https://en.wikipedia.org/wiki/Vietnam" target="_blank">
-  <img width="100%" align="center"  src="./resouces/Flag_of_Vietnam-Animated.gif" alt="Vietnam Flag"/>
+  <img width="100%" align="center"  src="./images/Flag_of_Vietnam-Animated.gif" alt="Vietnam Flag"/>
 </a>
