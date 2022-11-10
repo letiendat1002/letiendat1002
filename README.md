@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.fb.com/letiendat1002" target="_blank">![Facebook Badge](https://img.shields.io/badge/Facebook-DatTienLe-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/letiendat1002" target="_blank">![Linkedin Badge](https://img.shields.io/badge/Linkedin-DatTienLe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)</a>
-<a href="mailto:letiendat1002@gmail.com" target="_blank">![Mail Badge](https://img.shields.io/badge/Mail-DatTienLe-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)</a>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-DatTienLe-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.fb.com/letiendat1002)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-DatTienLe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letiendat1002)
+[![Mail Badge](https://img.shields.io/badge/Mail-DatTienLe-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:letiendat1002@gmail.com)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-DatTienLe-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](<link here>) -->
 
