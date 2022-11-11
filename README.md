@@ -8,7 +8,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letiendat1002&layout=compact&theme=transparent" alt="Dat Tien Le's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent" alt="Dat Tien Le's Top Languages"/>
 </div>
 
 <br>
