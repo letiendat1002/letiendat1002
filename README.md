@@ -5,7 +5,19 @@
 
 #### <img src="./images/lighting.gif" alt="Lightning Icon" width="30"/> I love talking about finance and technology. I'm trying to improve myself every day and developing sufficient skills to specialize in these fields and become a professional Software Engineer.
 
-<h2 align="center">🤝 Connect with me 🤝</h3>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letiendat1002&layout=compact" alt="Dat Tien Le's Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letiendat1002&show_icons=true&count_private=true&theme=transparent" alt="Dat Tien Le's GitHub stats"/>
+</div>
+
+<h2 align="center">🤝 Connect with me 🤝</h2>
 
 <p align="center">
   <a href="https://www.fb.com/letiendat1002" target="blank">
