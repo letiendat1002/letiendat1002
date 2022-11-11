@@ -1,4 +1,4 @@
-<h1 align="center">Welcome To Dat Tien Le Github</h1>
+<h1 align="center">Welcome To Dat's GitHub</h1>
 <h2 align="center"><i>A Passionate Programmer From Vietnam</i></h2>
 
 #### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! I’m Dat. You can call me Dylan. I am an IT student at the University of Transport Ho Chi Minh City.
@@ -8,7 +8,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letiendat1002&layout=compact" alt="Dat Tien Le's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letiendat1002&layout=compact&theme=transparent" alt="Dat Tien Le's Top Languages"/>
 </div>
 
 <br>
