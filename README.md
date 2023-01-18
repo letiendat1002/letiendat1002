@@ -12,13 +12,13 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent&env=PAT_1" alt="Dat Tien Le's Top Languages"/>
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent&env=PAT_1" alt="Dat Tien Le's Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat Tien Le's GitHub stats"/>
+  <img src="https://readme-stats.clckblog.space/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat Tien Le's GitHub stats"/>
 </div>
 
 <br>
