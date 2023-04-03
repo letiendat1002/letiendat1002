@@ -3,9 +3,9 @@
 
 <br>
 
-#### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
+### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
 
-#### <img src="./images/lighting.gif" alt="Lightning Icon" width="20"/> I love talking about finance and technology. My big dream is to spread awareness of money and the knowledge of investing to people around the globe.
+### <img src="./images/lighting.gif" alt="Lightning Icon" width="20"/> I love talking about finance and technology. My big dream is to spread awareness of money and the knowledge of investing to people around the globe.
 
 <br>
 
