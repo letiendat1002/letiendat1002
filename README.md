@@ -3,9 +3,9 @@
 
 <br>
 
-### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! I’m Dat. I am an IT student at the University of Transport Ho Chi Minh City.
+#### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
 
-### <img src="./images/lighting.gif" alt="Lightning Icon" width="30"/> I love talking about finance and technology. I'm trying to improve myself every day and developing sufficient skills to specialize in these fields.
+#### <img src="./images/lighting.gif" alt="Lightning Icon" width="20"/> I love talking about finance and technology. My big dream is to spread awareness of money and the knowledge of investing to people around the globe.
 
 <br>
 
@@ -21,7 +21,6 @@
   <img src="https://readme-stats.clckblog.space/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat Tien Le's GitHub stats"/>
 </div>
 
-<br>
 
 <h2 align="center">🤝 Connect with me 🤝</h2>
 
@@ -39,6 +38,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="50%" src="./images/Flag_of_Vietnam-Animated.gif" alt="Vietnam Flag"/>
-</p>
+<div align="center">
+  <img width="40%" src="./images/Flag_of_Vietnam-Animated.gif" alt="Vietnam Flag"/>
+</div>
