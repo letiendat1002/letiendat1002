@@ -1,4 +1,4 @@
-<h1 align="center">Welcome To Dat's GitHub</h1>
+<h1 align="center">Welcome To Dat's GitHub Page</h1>
 <h2 align="center"><i>A Passionate Programmer From Vietnam</i></h2>
 
 <br>
@@ -25,16 +25,14 @@
 <h2 align="center">🤝 Connect with me 🤝</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/letiendat1002" target="blank">
-    <img src="https://img.shields.io/badge/Linkedin-letiendat1002-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/letiendat1002" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-letiendat1002-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis" alt="Twitter Badge"/>
-  </a>
-  &nbsp;
   <a href="mailto:letiendat1002@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Mail-letiendat1002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
+
+  &nbsp
+
+  <a href="https://www.linkedin.com/in/letiendat1002" target="blank">
+    <img src="https://img.shields.io/badge/Linkedin-letiendat1002-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </p>
 
