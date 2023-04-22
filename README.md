@@ -28,9 +28,7 @@
   <a href="mailto:letiendat1002@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Mail-letiendat1002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
-
   &nbsp;
-
   <a href="https://www.linkedin.com/in/letiendat1002" target="blank">
     <img src="https://img.shields.io/badge/Linkedin-letiendat1002-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
