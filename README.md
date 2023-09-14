@@ -3,22 +3,20 @@
 
 <br>
 
-#### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
+<img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
 
-#### <img src="./images/lighting.gif" alt="Lightning Icon" width="20"/> I love talking about finance and technology. My big dream is to spread awareness of money and the knowledge of investing to people around the globe.
-
-<br>
+<img src="./images/lighting.gif" alt="Lightning Icon" width="20"/> I have a strong passion for discussing finance and technology, and I'm eagerly looking forward to joining an outstanding fintech company where I can make a meaningful contribution.
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
-  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent&env=PAT_1" alt="Dat Tien Le's Top Languages"/>
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent&env=PAT_1" alt="Dat's Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-stats.clckblog.space/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat Tien Le's GitHub stats"/>
+  <img src="https://readme-stats.clckblog.space/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat's GitHub stats"/>
 </div>
 
 
