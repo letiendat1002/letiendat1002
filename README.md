@@ -5,7 +5,7 @@
 
 <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
 
-<img src="./images/lighting.gif" alt="Lightning Icon" width="20"/> I have a strong passion for discussing finance and technology, and I'm eagerly looking forward to joining an outstanding fintech company where I can make a meaningful contribution.
+<img src="./images/lighting.gif" alt="Lightning Icon" width="25"/> &nbsp;I have a strong passion for discussing finance and technology, and I'm eagerly looking forward to joining an outstanding fintech company where I can make a meaningful contribution.
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
