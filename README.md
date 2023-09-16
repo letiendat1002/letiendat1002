@@ -1,9 +1,7 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='160'>
 
 <h1 align="center">Welcome To Dat's GitHub Page</h1>
 <h2 align="center"><i>A Passionate Programmer From Vietnam</i></h2>
-
-<br>
 
 #### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
 
