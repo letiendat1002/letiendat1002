@@ -34,12 +34,8 @@
 <div align="center">
     <img src="https://readme-stats.clckblog.space/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent&env=PAT_1" alt="Dat's Top Languages"/><br>
   <img src="https://readme-stats.clckblog.space/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat's GitHub stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=letiendat1002" alt="letiendat1002">
 </div>
-
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letiendat1002" alt="letiendat1002" /></a> </p>
-
 
 <h2 align="center">🤝 Connect with me 🤝</h2>
 
