@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Favorite Technologies 🛠️</h2>
+<h2 align="center">🛠️ Favourite Technologies 🛠️</h2>
 
 <table align="center">
   <tr>
@@ -41,8 +41,8 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>
-      <br>Linux
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/e-commerce/assets/66414511/a75b8c35-17c8-4694-80eb-6252fc63c42e" alt="Ubuntu" width="48" height="48"/> </a>
+      <br>Ubuntu
     </td>
   </tr>
 </table>
