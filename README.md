@@ -1,16 +1,13 @@
-<div>
-  <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='160'>
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='160'>
-</div>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h1 align="center">Welcome To Dat's GitHub Page</h1>
-<h2 align="center"><i>A Passionate Programmer From Vietnam <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></i></h2>
+<h2 align="center"><i>A Passionate Programmer From Vietnam</i></h2>
 
 <br>
 
 #### <img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat but you can call me Dee.
 
-#### <img src="./images/lighting.gif" alt="Lightning Icon" width="25"/> &nbsp;I have a strong passion for discussing finance and technology, and I'm eagerly looking forward to joining an outstanding fintech company where I can make a meaningful contribution.
+#### <img src="./images/lighting.gif" alt="Lightning Icon" width="30"/> I'm passionate about discussing finance and technology and eagerly anticipate the opportunity to contribute to a leading fintech company.
 
 <br>
 
