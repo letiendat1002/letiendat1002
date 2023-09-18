@@ -52,7 +52,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
-    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=letiendat1002&langs_count=4&layout=compact&theme=transparent&env=PAT_1" alt="Dat's Top Languages"/><br>
+    <img src="https://readme-stats.clckblog.space/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent&env=PAT_1" alt="Dat's Top Languages"/><br>
   <img src="https://readme-stats.clckblog.space/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat's GitHub stats"/>
   <img src="https://github-profile-trophy.vercel.app/?username=letiendat1002&no-bg=true&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="letiendat1002">
 </div>
