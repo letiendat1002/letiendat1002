@@ -1,10 +1,8 @@
-<div>
-  <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120'>
+<div align="center">
+  <h1>Welcome to Dat's GitHub Page</h1>
+  <h2><i>A Passionate Programmer from Vietnam</i></h2>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='90' alt='GitHub Mascot'>
 </div>
-
-<h1 align="center">Welcome To Dat's GitHub Page</h1>
-<h2 align="center"><i>A Passionate Programmer From Vietnam</i></h2>
 
 <br>
 
