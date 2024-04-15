@@ -19,12 +19,20 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="48" height="48"/> </a>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/b072e090-7f14-44c8-bd2a-184d23441809" alt="spring" width="48" height="48"/> </a>
       <br>SpringBoot
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a>
       <br>MySQL
+    </td>
+        <td align="center" width="96">
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/c81965bc-8599-452d-b368-f025f5ff3e23" alt="php" width="55" height="48"/> </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/1b2a9a76-f63a-4f03-90e2-92f4daae1818" alt="drupal" width="48" height="48"/> </a>
+      <br>Drupal
     </td>
   </tr>
 </table>
@@ -32,7 +40,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/8a84c721-b819-47a6-9834-797b4cb61b68" alt="git" width="48" height="48"/> </a>
       <br>Git
     </td>
     <td align="center" width="96"> 
@@ -44,8 +52,8 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/e-commerce/assets/66414511/a75b8c35-17c8-4694-80eb-6252fc63c42e" alt="Ubuntu" width="48" height="48"/> </a>
-      <br>Ubuntu
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/910bc9ea-47e2-44e1-893b-76e57f308be8" alt="Linux" width="48" height="48"/> </a>
+      <br>Linux
     </td>
   </tr>
 </table>
