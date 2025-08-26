@@ -47,10 +47,6 @@
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> </a>
-      <br>AWS
-    </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/910bc9ea-47e2-44e1-893b-76e57f308be8" alt="Linux" width="48" height="48"/> </a>
       <br>Linux
@@ -59,13 +55,6 @@
 </table>
 
 <br>
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-
-<div align="center">
-  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=letiendat1002&langs_count=6&layout=compact&theme=transparent&env=PAT_1" alt="Dat's Top Languages"/><br>
-  <img src="https://readme-stats.clckblog.space/api?username=letiendat1002&card_width=400&show_icons=true&count_private=true&theme=transparent&env=PAT_1" alt="Dat's GitHub stats"/>
-</div>
 
 <h2 align="center">🤝 Connect with me 🤝</h2>
 
