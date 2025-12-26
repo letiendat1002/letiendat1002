@@ -26,7 +26,6 @@
       <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/1b2a9a76-f63a-4f03-90e2-92f4daae1818" alt="drupal" width="48" height="48"/> </a>
       <br>Drupal
     </td>
-  </tr>
     <td align="center" width="96">
       <a href="https://github.com/magento/magento2" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d2d01229-4bce-419b-9588-2d1e861c53dc" alt="magento2" width="48" height="48"/> </a>
       <br>Magento2
