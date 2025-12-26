@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat, but you can call me Dee. I'm passionate about discussing Finance and E-commerce.
+<img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat (Dee). I'm passionate about discussing Finance and E-commerce.
 
 <br>
 
