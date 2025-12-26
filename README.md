@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat, but you can call me Dee. I'm passionate about discussing finance and technology.
+<img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat, but you can call me Dee. I'm passionate about discussing Finance and E-commerce.
 
 <br>
 
@@ -14,14 +14,6 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/b072e090-7f14-44c8-bd2a-184d23441809" alt="spring" width="48" height="48"/> </a>
-      <br>SpringBoot
-    </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a>
       <br>MySQL
@@ -33,6 +25,11 @@
     <td align="center" width="96">
       <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/1b2a9a76-f63a-4f03-90e2-92f4daae1818" alt="drupal" width="48" height="48"/> </a>
       <br>Drupal
+    </td>
+  </tr>
+    <td align="center" width="96">
+      <a href="https://github.com/magento/magento2" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d2d01229-4bce-419b-9588-2d1e861c53dc" alt="magento2" width="48" height="48"/> </a>
+      <br>Magento2
     </td>
   </tr>
 </table>
