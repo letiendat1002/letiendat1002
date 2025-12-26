@@ -27,7 +27,7 @@
       <br>Drupal
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/magento/magento2" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d2d01229-4bce-419b-9588-2d1e861c53dc" alt="magento2" width="48" height="48"/> </a>
+      <a href="https://github.com/magento/magento2" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7bc1e87a-51e3-4774-9013-8c5f8f4156c0" alt="magento2" width="48" height="48"/> </a>
       <br>Magento2
     </td>
   </tr>
