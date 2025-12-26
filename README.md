@@ -15,10 +15,6 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a>
-      <br>MySQL
-    </td>
-        <td align="center" width="96">
       <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e0cb4f4c-cf13-419d-8916-146f5aa0f263" alt="php" width="55" height="48"/> </a>
       <br>PHP
     </td>
@@ -29,6 +25,10 @@
     <td align="center" width="96">
       <a href="https://github.com/magento/magento2" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7bc1e87a-51e3-4774-9013-8c5f8f4156c0" alt="magento2" width="48" height="48"/> </a>
       <br>Magento2
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a>
+      <br>MySQL
     </td>
   </tr>
 </table>
