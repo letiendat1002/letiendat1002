@@ -19,7 +19,7 @@
       <br>MySQL
     </td>
         <td align="center" width="96">
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/c81965bc-8599-452d-b368-f025f5ff3e23" alt="php" width="55" height="48"/> </a>
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e0cb4f4c-cf13-419d-8916-146f5aa0f263" alt="php" width="55" height="48"/> </a>
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -36,7 +36,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e0cb4f4c-cf13-419d-8916-146f5aa0f263" alt="git" width="48" height="48"/> </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/8a84c721-b819-47a6-9834-797b4cb61b68" alt="git" width="48" height="48"/> </a>
       <br>Git
     </td>
     <td align="center" width="96"> 
